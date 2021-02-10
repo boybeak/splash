@@ -10,6 +10,7 @@ class CollectionCard extends StatefulWidget {
   State<StatefulWidget> createState() {
     return CollectionCardState();
   }
+
 }
 
 class CollectionCardState extends State<CollectionCard> {
